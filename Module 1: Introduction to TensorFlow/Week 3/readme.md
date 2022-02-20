@@ -1,1 +1,1 @@
-Week 3, Module 1 : Introduction to TensorFlow
+Week 3 for Module 1 : Introduction to TensorFlow
