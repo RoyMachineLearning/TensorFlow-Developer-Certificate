@@ -1,5 +1,4 @@
 # TensorFlow-Developer-Certificate
-==================================
 
 **Resourses**
 
