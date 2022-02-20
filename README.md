@@ -1,6 +1,6 @@
 # TensorFlow-Developer-Certificate
 
-Resourses
+**Resourses**
 
 Introduction to Google Colaboratory FAQ: https://research.google.com/colaboratory/faq.html
 
